@@ -1,5 +1,4 @@
 #[COURS] _La création de jeux vidéos en C++_
-
 -
 
 Bienvenue dans ce cours dédié à la programmation de jeux vidéos en C++. Si vous êtes totalement débutant dans le langage C++, je vous renvoie vers cet excellent cours : [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/). 
@@ -7,6 +6,7 @@ Bienvenue dans ce cours dédié à la programmation de jeux vidéos en C++. Si v
 Ce cours nécessite l'installation d'un [compilateur C++](http://guillaume.belz.free.fr/doku.php?id=compilateur_cpp) ainsi que le téléchargement de la [SFML](https://www.sfml-dev.org/download/sfml/2.5.1/index-fr.php).
 
 ##1. Introduction
+-
 
 Si vous lisez ces lignes c'est sûrement que vous cherchez à apprendre à développer un jeu vidéo.
 
